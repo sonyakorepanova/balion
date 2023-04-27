@@ -1,0 +1,406 @@
+body {
+    width: 1470px;
+    margin:0;
+    padding:0;
+    font-family: 'Inter',sans-serif;
+    font-weight: 200px;
+    overflow-y: scroll;
+    overflow-y: scroll;
+    min-height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.header{
+    background: #1F260B;
+    width: 1470px;
+    height: 123px;
+}
+
+.logo{
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo-fotos{
+    flex-direction: column;
+    margin-left: 37px;
+    padding-top: 9px;
+}
+
+.logo-foto{
+    width:80px;
+    height:80px;
+    margin-left: 10px;
+}
+
+
+.hd{
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.hd li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.a{
+    font-size: 24px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Inter',sans-serif;
+}
+
+.head-text {
+    font-size: 64px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 300px;
+
+}
+
+.head-text1 {
+    font-family: 'Inter', sans-serif;
+
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 78px;
+}
+
+.head-text2 {
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 78px;
+    list-style-type: none;
+}
+
+.head-text3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 78px;
+    list-style-type: none;
+}
+
+.head-text4 {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 78px;
+    list-style-type: none;
+}
+
+.languges{
+    display:flex;
+    justify-content: space-between;
+}
+
+.languges-fotos{
+    flex-direction: column;
+    margin-left: 37px;
+    padding-top: 9px;
+}
+
+.languges-foto{
+    width:78px;
+    height:78px;
+    margin-left: 10px;
+}
+
+
+
+.section23{
+    width: 1470px;
+    height: 2600px;
+    background: rgba(95, 136, 116, 0.54);
+}
+
+.txtdeviz{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    text-indent: 70px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+.textcenter{
+    position: absolute;
+    width: 1026px;
+    height: 210px;
+    left: 168px;
+    top: 360px;
+}
+
+.lineTit{
+    display:flex;
+    justify-content: center;
+}
+
+.line-fotos{
+    flex-direction: column;
+    margin-left: 37px;
+    padding-top: 9px;
+}
+
+.line-foto{
+    position: absolute;
+    width: 1000px;
+    height: 0px;
+    left: 281px;
+    top:    160px;
+    border: 2px solid #000000;
+    transform: rotate(0deg);
+}
+.sect1{
+    position: absolute;
+    width: 1330px;
+    height: 1982px;
+    left: 87px;
+    top: 629px;
+    background: rgba(31, 38, 11, 0.64);
+}
+
+.pole-1{
+    position:absolute;
+    width:20px;
+    height: 120px;
+    left: 2px;
+    top: 0px;
+}
+
+.num1{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 150px;
+    font-size: 60px;
+    line-height: 40px;
+    letter-spacing: 0.55em;
+    
+    color: #FFFFFF;
+}
+
+.line2-foto{
+    position: absolute;
+    width: 633px;
+    height: 0px;
+    left: 1px;
+    top: 129px;
+
+    border: 2px solid #FFFDFD;
+}
+
+.rice-terracce{
+    position: absolute;
+    width: 690px;
+    height: 490px;
+    left: 639px;
+    top: 0px;
+
+    background: url(rice.jpg);
+}
+
+.txtrice{
+    position: absolute;
+    width: 473px;
+    height: 10px;
+    left: 107px;
+    top: 36px;
+}
+
+.txtrice1{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 20px;
+
+    letter-spacing: 0.3em;
+    color: #FFFDFD;
+}
+
+.textrice{
+    position: absolute;
+    width: 606px;
+    height: 226px;
+    left: 28px;
+    top: 207px;
+}
+
+.textrice2{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.2em;
+    
+    color: #FFFDFD;
+}
+
+.pole-2{
+    position: absolute;
+    width: 62px;
+    height: 155px;
+    left: 610px;
+    top: 479px;
+}
+
+.num2{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 150px;
+    font-size: 60px;
+    line-height: 40px;
+    letter-spacing: 0.55em;
+    
+    color: #FFFFFF;
+}
+
+.line3-foto{
+    position: absolute;
+    width: 681px;
+    height: 0px;
+    left: 643px;
+    top: 612px;
+
+    border: 3px solid #FFFFFF;
+}
+
+.church-gunung{
+    position: absolute;
+    width: 435px;
+    height: 40px;
+    left: 749px;
+    top: 504px;
+}
+
+.church{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+
+    color: #FFFFFF;
+
+}
+
+.church-foto{
+    position: absolute;
+    width: 630px;
+    height: 472px;
+    left: 0px;
+    top: 504px;
+
+    background: url(Kavi.jpg);
+}
+
+.txtchurch{
+    position: absolute;
+    width: 597px;
+    height: 74px;
+    left: 725px;
+    top: 610px;
+}
+
+.textchurch{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+
+    color: #FFFFFF;
+}
+
+.pole-3{
+    position: absolute;
+    width: 53px;
+    height: 155px;
+    left: 26px;
+    top: 990px;
+}
+
+.num3{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 155px;
+    letter-spacing: 0.55em;
+    
+    color: #FFFFFF;   
+}
+
+.line4-foto{
+    position: absolute;
+    width: 650px;
+    height: 0px;
+    left: 0px;
+    top: 1184px;
+
+    border: 3px solid #FFFFFF;
+}
+
+.rent-buy{
+    position: absolute;
+    width: 484px;
+    height: 80px;
+    left: 116px;
+    top: 1038px;  
+}
+
+.txtrent{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+
+    color: #FFFFFF;
+}
+
+.advent-foto{
+    position: absolute;
+    width: 680px;
+    height: 770px;
+    left: 650px;
+    top: 1211px;
+
+    
+    background: url(Sekumpul Waterfall_ A complete guide to Bali’s best waterfall _ The Common Wanderer.jpeg);
+}
+
+.adventtext{
+    position: absolute;
+    width: 663px;
+    height: 144px;
+    left: 28px;
+    top: 1225px;
+}
+
+.txtadvent{
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    letter-spacing: 0.2em;
+
+    color: #FFFFFF;
+}
